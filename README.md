@@ -32,3 +32,5 @@
 <h3>In the end, we can see that Gradient Boosting Model has the highest accuracy as compared to all other models. Gradient Boosting Model performs better on Analysis and prediction of Stock price/performance than the other 5 Neural Network Models.</h3>
 
 <hr>
+
+<h1 align=center><a href="https://www.youtube.com/watch?v=rJZrPcURbng&t">Youtube Explanation</a></h1>
