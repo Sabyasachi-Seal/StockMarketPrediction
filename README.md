@@ -2,7 +2,8 @@
 
 ## Data Science and Business Analytics
 
-### Stock Market Prediction using Numerical and Textual Analysis - By Sabyasachi Seal
+### Stock Market Prediction using Numerical and Textual Analysis (Task 7) 
+### - By Sabyasachi Seal
 
 <hr>
 
